@@ -76,9 +76,9 @@ xor g6(c6,a,b);
 xnor g7(c7,a,b);
 endmodule
 ```
- Developed by:R.Dhivyashree
+ Developed by: S. Tejasvi
  
- RegisterNumber:25016639
+ RegisterNumber: 25018602
  
 **Logic symbol & Truthtable**
 
